@@ -1,0 +1,5 @@
+Title: Blog
+
+----
+
+Text: I've been stuck for a few weeks. I made some good progress after Christmas building the site. I learned how to set up Kirby, a lightweight, file-based CMS, worked on a layout using Bootstrap.  But it's hard to design without content.
